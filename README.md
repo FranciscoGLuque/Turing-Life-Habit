@@ -18,6 +18,7 @@ Turing College Framework – for applying the six steps of data analysis
 # 📂 Project Files
 
 📊 Data
-Google Sheets – Data & Analysis
+[Google Sheets – Data & Analysis](https://docs.google.com/spreadsheets/d/17L-RbyzD-asemrOxTqp8n51Xas2vaGOq/edit?gid=2057952330#gid=2057952330)
+
 🖥️ Presentation
-Google Slides – Project Presentation
+[Google Slides – Project Presentation](https://docs.google.com/presentation/d/1VEFP4P437M2yO8tLge4rGVnWILA9zBZE/edit?slide=id.p3#slide=id.p3)
