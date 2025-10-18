@@ -5,3 +5,7 @@ I began by identifying a personal topic from everyday life that could be quantif
 
 #### The findings were then compiled into a clear and concise presentation that summarized the process, results, and recommendations. Finally, I reflected on potential actions based on the analysis — translating data insights into practical steps for improvement.
 This project not only strengthened my technical and analytical thinking but also helped me practice effective storytelling with data from formulating questions to sharing results in a structured, meaningful way.
+
+
+
+https://docs.google.com/spreadsheets/d/17L-RbyzD-asemrOxTqp8n51Xas2vaGOq/edit?usp=share_link&ouid=106749029951163782256&rtpof=true&sd=true
