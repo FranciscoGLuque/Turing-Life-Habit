@@ -7,7 +7,7 @@ Once cleaned, I analyzed the data using Google Sheets to identify trends, patter
 # 🔍 Findings & Insights
 
 The findings were compiled into a clear and concise presentation that summarized the process, results, and recommendations.
-Finally, I reflected on potential actions based on the analysis — translating data insights into practical steps for improvement.
+Finally, I reflected on potential actions based on the analysis translating data insights into practical steps for improvement.
 This project strengthened my technical and analytical thinking and helped me practice data storytelling, from formulating questions to sharing results in a structured, meaningful way.
 
 # 🧰 Tools Used
